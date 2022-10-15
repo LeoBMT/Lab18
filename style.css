@@ -1,27 +1,33 @@
 .bg-img1 {
   background-color: #333;
   background-image: linear-gradient(
-      rgba(37, 37, 37, 0.7),
-      rgba(43, 43, 43, 0.7)
+      rgba(37, 37, 37, 0.5),
+      rgba(43, 43, 43, 0.5)
     ),
     url(./img/fundamentals.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
   height: 50vh;
 }
 .bg-img2 {
   background-color: #333;
   background-image: linear-gradient(
-      rgba(37, 37, 37, 0.7),
-      rgba(43, 43, 43, 0.7)
+      rgba(37, 37, 37, 0.5),
+      rgba(43, 43, 43, 0.5)
     ),
     url(./img/react.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
   height: 50vh;
 }
 .bg-img3 {
   background-color: #333;
   background-image: linear-gradient(
-      rgba(37, 37, 37, 0.7),
-      rgba(43, 43, 43, 0.7)
+      rgba(37, 37, 37, 0.5),
+      rgba(43, 43, 43, 0.5)
     ),
     url(./img/showcase.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
   height: 50vh;
 }
