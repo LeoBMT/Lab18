@@ -1,12 +1,27 @@
 .bg-img1 {
   background-color: #333;
+  background-image: linear-gradient(
+      rgba(37, 37, 37, 0.7),
+      rgba(43, 43, 43, 0.7)
+    ),
+    url(./img/fundamentals.svg);
   height: 50vh;
 }
 .bg-img2 {
   background-color: #333;
+  background-image: linear-gradient(
+      rgba(37, 37, 37, 0.7),
+      rgba(43, 43, 43, 0.7)
+    ),
+    url(./img/react.svg);
   height: 50vh;
 }
 .bg-img3 {
   background-color: #333;
+  background-image: linear-gradient(
+      rgba(37, 37, 37, 0.7),
+      rgba(43, 43, 43, 0.7)
+    ),
+    url(./img/showcase.svg);
   height: 50vh;
 }
